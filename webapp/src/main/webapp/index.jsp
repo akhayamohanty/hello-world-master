@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-<h1> Hello Akhaya, Welcome to Valaxy Technologies !!! </h1>
+<h1> Hello Somnath, Welcome to Valaxy Technologies !!! </h1>
 
 =======
 <h1> Hello Akhaya, Welcome to My first devops CI CD !!! </h1>
